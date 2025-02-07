@@ -1,4 +1,4 @@
-# Academic Research Remix By Cactus Communications
+# Academic Research Remix By Cactus Communications 
 
 This repository contains a Blazor frontend and a Flask-based backend (`app.py`) that processes research papers (PDFs), extracts key sections using the Gemini API, and generates a podcast using Google TTS.
 
